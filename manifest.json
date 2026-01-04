@@ -11,12 +11,12 @@
   "lang": "en-UG",
   "icons": [
     {
-      "src": "icon-72.png",
+      "src": "icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "icon-96.png",
+      "src": "icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
@@ -47,13 +47,13 @@
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icon-512.png",
+      "src": "icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "image/png"
